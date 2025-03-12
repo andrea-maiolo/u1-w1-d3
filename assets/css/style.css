@@ -18,7 +18,7 @@ header p {
   padding: 12px 0;
 }
 
-.container {
+#container {
   width: 650px;
   margin: auto;
   color: #333333;
@@ -35,25 +35,25 @@ main video {
   background: #000;
 }
 
-.image-container {
+#image-container {
   text-align: center;
   color: #999999;
 }
 
-.more-recipes {
+#more-recipes {
   padding-left: 16px;
   border-left: 1px solid yellow;
 }
 
-.more-recipes p {
+#more-recipes p {
   margin: 0;
 }
 
-.more-recipes p:first-child {
+#more-recipes p:first-child {
   color: #b54710;
 }
 
-.more-recipes p:last-child {
+#more-recipes p:last-child {
   color: #177a7a;
   text-decoration: underline;
 }
