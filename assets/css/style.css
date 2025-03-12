@@ -1,5 +1,5 @@
 .container {
-  width: 600px;
+  width: 650px;
   margin: auto;
   color: #333333;
 }
@@ -9,13 +9,22 @@ header {
 }
 
 header img {
-  width: 30%;
+  width: 20%;
 }
 
-header h2 {
+header p {
   color: #004d4c;
   background-color: #fdfbf1;
   border-top: 1px solid #ffde8b;
+  font-size: 0.7rem;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  padding: 7px 0;
+}
+
+main {
+  margin-top: 50px;
 }
 
 main h1 {
@@ -33,7 +42,7 @@ main img {
 }
 
 .more-recipes {
-  padding-left: 10px;
+  padding-left: 16px;
   border-left: 1px solid yellow;
 }
 
