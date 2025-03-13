@@ -19,8 +19,8 @@ header p {
 }
 
 #container {
-  width: 650px;
-  margin: auto;
+  max-width: 650px;
+  margin-inline: auto;
   color: #333333;
 }
 
