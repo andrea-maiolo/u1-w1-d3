@@ -43,6 +43,7 @@ main video {
 #more-recipes {
   padding-left: 16px;
   border-left: 1px solid yellow;
+  margin-bottom: 3rem;
 }
 
 #more-recipes p {
@@ -61,10 +62,15 @@ main video {
 main h3 {
   border-bottom: 1px solid #cef5f4;
   padding-bottom: 12px;
+  font-size: 1.5rem;
 }
 
 .list-title {
   font-weight: 600;
+}
+
+main ul li {
+  line-height: 2rem;
 }
 
 main p a {
